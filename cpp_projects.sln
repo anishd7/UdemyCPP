@@ -43,7 +43,7 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "UdemyCPPFunctionsHW", "Udem
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "UdemyCPPRecursionHW", "UdemyCPPRecursionHW\UdemyCPPRecursionHW.vcxproj", "{4EAE055E-538F-4C9A-866E-81D97BF18C17}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "UdemyCPPProject1", "UdempyCPPProject1\UdempyCPPProject1.vcxproj", "{0E28740B-9CCB-4A2D-A8D4-D20553E9A070}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "UdemyCPPProject1", "UdemyCPPProject1\UdempyCPPProject1.vcxproj", "{0E28740B-9CCB-4A2D-A8D4-D20553E9A070}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "UdemyCPPStructsPractice", "UdemyCPPStructsPractice\UdemyCPPStructsPractice.vcxproj", "{C0C1E3C8-E9FC-43D1-B16A-97B5ECCBFB46}"
 EndProject
